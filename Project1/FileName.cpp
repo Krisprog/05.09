@@ -14,6 +14,18 @@ void F3()
 	cout << "F3\n";
 }
 
+struct Human
+{
+	string name;
+	int age;
+};
+void InitHuman(Human a)
+{
+}
+void PrintHuman(Human a)
+{
+
+}
 int Sum(int a, int b)
 {
 
@@ -32,5 +44,9 @@ int SumArray()
 }
 int main()
 {
+	Human a;
+	a.age = 20;
+	a.name = "Ivan";
+
 
 }
