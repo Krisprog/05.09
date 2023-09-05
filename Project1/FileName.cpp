@@ -22,7 +22,10 @@ int Init(int arr[], int size)
 {
 
 }
+int Print(int arr[], int size)
+{
 
+}
 int main()
 {
 
