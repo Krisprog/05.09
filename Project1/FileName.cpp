@@ -18,6 +18,10 @@ struct Human
 	string name;
 	int age;
 };
+void InitHuman(Human a)
+{
+
+}
 int main()
 {
 
