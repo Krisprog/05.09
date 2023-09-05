@@ -13,6 +13,11 @@ void F3()
 	cout << "F3\n";
 }
 
+struct Human
+{
+	string name;
+	int age;
+};
 int main()
 {
 
