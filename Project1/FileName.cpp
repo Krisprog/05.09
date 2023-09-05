@@ -28,5 +28,9 @@ void PrintHuman(Human a)
 }
 int main()
 {
+	Human a;
+	a.age = 20;
+	a.name = "Ivan";
+
 
 }
