@@ -20,7 +20,6 @@ struct Human
 };
 void InitHuman(Human a)
 {
-
 }
 void PrintHuman(Human a)
 {
