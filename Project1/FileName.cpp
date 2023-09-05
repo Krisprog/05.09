@@ -18,6 +18,10 @@ int Sum(int a, int b)
 {
 
 }
+int Init(int arr[], int size)
+{
+
+}
 
 int main()
 {
