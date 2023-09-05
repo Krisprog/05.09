@@ -38,10 +38,7 @@ int Print(int arr[], int size)
 {
 
 }
-int SumArray()
-{
 
-}
 int main()
 {
 	Human a;
